@@ -1,4 +1,4 @@
-#Eco-design Perception of Smart Glasses
+# Eco-design Perception of Smart Glasses
 
 In this dataset, 33 valid responses were collected and used for the comparative analysis, while C1 to C4 represents (i) multi-purpose and recyclable, (ii) long-lasting product lifetime, (iii) technological design for sustainability and (iv) green message dissemination.
 
